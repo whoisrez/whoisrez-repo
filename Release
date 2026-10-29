@@ -1,0 +1,16 @@
+Origin: whoisrez
+Label: whoisrez
+Suite: stable
+Version: 1.0
+Codename: whoisrez
+Architectures: iphoneos-arm64
+Components: main
+Description: Tweaks and tools by whoisrez
+MD5Sum:
+ d273ce53bda3e9dcb84c1245a8ab71ca 635 Packages
+ 8252b4e13f36222cdf202cdb78c3059a 475 Packages.bz2
+ 6a5106067c396935ada28f99fc1dbf9d 440 Packages.gz
+SHA256:
+ ffd6d6db3be27cbe6b65f8eabf946dba92fc3495317c7ba578ce37dead32da47 635 Packages
+ 6595cb1a7d957171c5774b5c4506e5d234ade84ea2ec3016150733eb284dd53d 475 Packages.bz2
+ 993345d57367063781313e1a86cbaa9c435e33a3840578fb3dab0ae66fa58416 440 Packages.gz
