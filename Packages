@@ -1,14 +1,14 @@
 Package: com.whoisrez.bitlifeeditor
-Version: 0.7.1
+Version: 0.8.0
 Architecture: iphoneos-arm64
 Maintainer: whoisrez
-Installed-Size: 664
+Installed-Size: 680
 Depends: firmware (>= 15.0)
-Filename: debs/com.whoisrez.bitlifeeditor_0.7.1_iphoneos-arm64.deb
-Size: 224572
-MD5sum: 150bbcc69e1a821aa2b4ac614b879fb8
-SHA1: 434efc9b44b5b5b275efd881c72439ebe33cb670
-SHA256: b203c4ee2fac21b6741b696fb2b88e9f93c216cd316ba313a55b449705ba5927
+Filename: debs/com.whoisrez.bitlifeeditor_0.8.0_iphoneos-arm64.deb
+Size: 229786
+MD5sum: 3cce1b3ce5985a688a8ee7541be852e3
+SHA1: 1074d83dbac7c510a9128282cdc844353b868ac3
+SHA256: 95082565bfc889fcd73ea4fefec130ba83f870b26a416e55e76e1bceeceba745
 Section: Utilities
 Description: Native BitLife save viewer and editor with verified backup and restore. Never touches MonetizationVars.
 Author: whoisrez
